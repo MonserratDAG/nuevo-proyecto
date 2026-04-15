@@ -7,7 +7,7 @@
   ],
   "name": "language-courses",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://cunning-panda-sbuply-dev-ed.trailblaze.lightning.force.com/",
   "sourceApiVersion": "66.0",
   "defaultLwcLanguage": "javascript"
 }
